@@ -84,7 +84,7 @@ const loadEvent = _ => { // az alsóvonás azt jelenti, hogy nem fogjuk használ
         card.querySelector('button').addEventListener('click', cardButtonClickEvent)       
     }
 
- */
+ */ 
 
     function clickEvent(event) {
         // console.log(event.target);
